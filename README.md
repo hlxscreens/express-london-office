@@ -1,4 +1,4 @@
-# Express Project Template
+# Express Project London Office
 Welcome to our Express Integration with AEM Franklin GitHub repository! This template is a robust solution crafted to simplify the intricate process of setting up the integration between Express and Adobe Experience Manager (AEM) Franklin. With pre-configured settings and optimized Express routes, the template ensures a seamless flow of channels between the two platforms. The middleware provided facilitates efficient channel propagation from Express to AEM Franklin, promoting accurate and timely updates. Built for scalability, this template can effortlessly handle a growing number of channels without compromising performance. 
 
 ## Environments
