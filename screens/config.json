@@ -1,0 +1,14 @@
+{
+    "storageProvider": "<microsoft-or-google>",
+    "driveId": "<drive-id>",
+    "baseFolderName": "<base-folder-name>",
+    "assetsPath": "<assets-path>",
+    "channelsPath": "<channels-path>",
+    "schedulesPath": "<schedules-path>",
+    "repoName" : "<repo-name>",
+    "repoBranch" : "<branch>",
+    "repoOwner" : "<owner>",
+    "expressDocTemplate" : "<doc-template-with-extension>",
+    "expressScheduleFileName" : "<schedules-template>",
+    "tenantSecretFolderName" : "<aws-tenant-secret-folder-name>"
+}
