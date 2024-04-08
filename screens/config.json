@@ -1,14 +1,14 @@
 {
-    "storageProvider": "<microsoft-or-google>",
-    "driveId": "<drive-id>",
-    "baseFolderName": "<base-folder-name>",
-    "assetsPath": "<assets-path>",
-    "channelsPath": "<channels-path>",
-    "schedulesPath": "<schedules-path>",
-    "repoName" : "<repo-name>",
-    "repoBranch" : "<branch>",
-    "repoOwner" : "<owner>",
-    "expressDocTemplate" : "<doc-template-with-extension>",
-    "expressScheduleFileName" : "<schedules-template>",
-    "tenantSecretFolderName" : "<aws-tenant-secret-folder-name>"
+    "storageProvider": "microsoft",
+    "driveId": "b!7v-8i4BePUKvTyMl_T__i6q8Oo5Zo6ZAo-USfb-1QG_wACTWNP3_SYwGzpthENut",
+    "baseFolderName": "express-london-office",
+    "assetsPath": "/assets",
+    "channelsPath": "/channels",
+    "schedulesPath": "/schedules",
+    "deliveryPath":"/content/screens/",
+    "repoName" : "express-london-office",
+    "repoBranch" : "main",
+    "repoOwner" : "hlxscreens",
+    "docTemplate" : "test-express.docx",
+    "secretFolderName" : "adobe"
 }
