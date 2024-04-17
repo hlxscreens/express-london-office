@@ -1,6 +1,27 @@
 {
   "channels": [
     {
+      "manifestPath": "/content/screens/express/channels/2202168c-1af6-378c-ae69-a734ca7069db.manifest.json",
+      "lastModified": "2024-04-17T09:44:09.929Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/2202168c-1af6-378c-ae69-a734ca7069db",
+      "title": "[STAGE] London Office Screens",
+      "liveUrl": "https://screens-uk.aem-screens.net/content/screens/express/channels/2202168c-1af6-378c-ae69-a734ca7069db.html"
+    },
+    {
       "manifestPath": "/content/screens/express/channels/channel-1.manifest.json",
       "lastModified": "2024-04-08T08:45:51.000Z",
       "hierarchy": [
