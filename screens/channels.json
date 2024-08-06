@@ -43,6 +43,27 @@
       "liveUrl": "https://screens-uk.aem-screens.net/content/screens/express/channels/6693d89e-080a-31d7-96ed-34444fca1b60.html"
     },
     {
+      "manifestPath": "/content/screens/express/channels/8eac5021-a503-365d-b8f5-a8c2a9a986c9.manifest.json",
+      "lastModified": "2024-08-06T15:53:54.398Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/8eac5021-a503-365d-b8f5-a8c2a9a986c9",
+      "title": "VV Leaderboard",
+      "liveUrl": "https://screens-uk.aem-screens.net/content/screens/express/channels/8eac5021-a503-365d-b8f5-a8c2a9a986c9.html"
+    },
+    {
       "manifestPath": "/content/screens/express/channels/channel-1.manifest.json",
       "lastModified": "2024-04-08T08:45:51.000Z",
       "hierarchy": [
