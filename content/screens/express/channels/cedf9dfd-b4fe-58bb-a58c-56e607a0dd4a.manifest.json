@@ -1,0 +1,95 @@
+{
+  "version": "3.0",
+  "timestamp": 1738749130441,
+  "entries": [
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/blocks/carousel/utils.js",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/content/screens/express/assets/13f47575-1d83-4a43-bd08-8b0af28565cc.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/2c09ef7a-8fcf-4a24-b40c-072bb11ca1d4.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/582026c2-1c81-4548-a17c-763530ba4cfd.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/8260bc32-9beb-4f38-9b47-42ebe11e674a.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/84275bca-5620-46e1-a0cd-123d742a0c64.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/a0b47f3a-85a3-4dbb-826f-9e860d6cb39d.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/b7fe0a18-d661-4ddb-be6a-d363b233e58e.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/assets/ea837430-a781-4afb-bb56-23d3f4442fdf.jpg",
+      "timestamp": 1738749034000
+    },
+    {
+      "path": "/content/screens/express/assets/f79fba94-eaae-4cfe-b166-59a36521de7a.jpg",
+      "timestamp": 1738749035000
+    },
+    {
+      "path": "/content/screens/express/channels/cedf9dfd-b4fe-58bb-a58c-56e607a0dd4a.html",
+      "timestamp": 1738749130441
+    },
+    {
+      "path": "/content/screens/express/schedules/schedule-cedf9dfd-b4fe-58bb-a58c-56e607a0dd4a.json",
+      "timestamp": 1738749050000
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1712559071000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1712559071000
+    }
+  ],
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "express",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "express"
+  }
+}
