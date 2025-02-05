@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/express/channels/2202168c-1af6-378c-ae69-a734ca7069db.manifest.json",
-      "lastModified": "2025-01-15T11:40:49.000Z",
+      "lastModified": "2025-02-05T09:54:16.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -65,7 +65,7 @@
     },
     {
       "manifestPath": "/content/screens/express/channels/cedf9dfd-b4fe-58bb-a58c-56e607a0dd4a.manifest.json",
-      "lastModified": "2025-02-05T09:52:10.441Z",
+      "lastModified": "2025-02-05T09:52:20.000Z",
       "hierarchy": [
         {
           "title": "screens",
